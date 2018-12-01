@@ -1,0 +1,9 @@
+C:\Users\Abraham\Desktop\Ejercicio Num 1\bin\Debug\Ejercicio Num 1.exe.config
+C:\Users\Abraham\Desktop\Ejercicio Num 1\bin\Debug\Ejercicio Num 1.exe
+C:\Users\Abraham\Desktop\Ejercicio Num 1\bin\Debug\Ejercicio Num 1.pdb
+C:\Users\Abraham\Desktop\Ejercicio Num 1\obj\Debug\Ejercicio Num 1.csprojResolveAssemblyReference.cache
+C:\Users\Abraham\Desktop\Ejercicio Num 1\obj\Debug\Ejercicio Num 1.exe
+C:\Users\Abraham\Desktop\Ejercicio Num 1\obj\Debug\Ejercicio Num 1.pdb
+C:\Users\Abraham\Desktop\Recuperacion Unidad 3\Ejercicio Num 1\bin\Debug\Ejercicio Num 1.exe.config
+C:\Users\Abraham\Desktop\Recuperacion Unidad 3\Ejercicio Num 1\obj\Debug\Ejercicio Num 1.exe
+C:\Users\Abraham\Desktop\Recuperacion Unidad 3\Ejercicio Num 1\obj\Debug\Ejercicio Num 1.pdb

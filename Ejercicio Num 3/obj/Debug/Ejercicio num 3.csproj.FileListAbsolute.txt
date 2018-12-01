@@ -1,0 +1,12 @@
+C:\Users\Abraham\Desktop\Ejercicio num 3\bin\Debug\Ejercicio num 3.exe.config
+C:\Users\Abraham\Desktop\Ejercicio num 3\bin\Debug\Ejercicio num 3.exe
+C:\Users\Abraham\Desktop\Ejercicio num 3\bin\Debug\Ejercicio num 3.pdb
+C:\Users\Abraham\Desktop\Ejercicio num 3\obj\Debug\Ejercicio num 3.csprojResolveAssemblyReference.cache
+C:\Users\Abraham\Desktop\Ejercicio num 3\obj\Debug\Ejercicio num 3.exe
+C:\Users\Abraham\Desktop\Ejercicio num 3\obj\Debug\Ejercicio num 3.pdb
+C:\Users\Abraham\Desktop\Recuperacion Unidad 3\Ejercicio num 3\bin\Debug\Ejercicio num 3.exe.config
+C:\Users\Abraham\Desktop\Recuperacion Unidad 3\Ejercicio num 3\obj\Debug\Ejercicio num 3.exe
+C:\Users\Abraham\Desktop\Recuperacion Unidad 3\Ejercicio num 3\obj\Debug\Ejercicio num 3.pdb
+C:\Users\Abraham\Desktop\Recuperacion Unidad 3\Ejercicio num 3\bin\Debug\Ejercicio num 3.exe
+C:\Users\Abraham\Desktop\Recuperacion Unidad 3\Ejercicio num 3\bin\Debug\Ejercicio num 3.pdb
+C:\Users\Abraham\Desktop\Recuperacion Unidad 3\Ejercicio num 3\obj\Debug\Ejercicio num 3.csprojResolveAssemblyReference.cache
